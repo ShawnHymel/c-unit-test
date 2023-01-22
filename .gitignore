@@ -1,8 +1,8 @@
 # C/C++ output
-.o
-.obj
-.out
-.elf
+*.o
+*.obj
+*.out
+*.elf
 
 # CppUTest framework
 cpputest/

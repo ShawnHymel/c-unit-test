@@ -6,3 +6,4 @@
 
 # CppUTest framework
 cpputest/
+*.tar.gz
